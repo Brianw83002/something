@@ -18,10 +18,10 @@
   in xampp control panel hit start for apache and MySQL
 
 # For microsoft SQL Server Management
-  serverName = DESKTOP-MLDR1IG\SQLEXPRESS
-  Authentication: SQL Server Authentication
-  username = something
-  password = something
+    serverName = DESKTOP-MLDR1IG\SQLEXPRESS
+    Authentication: SQL Server Authentication
+    username = something
+    password = something
   
   
 
