@@ -22,6 +22,10 @@
     Authentication: SQL Server Authentication
     username = something
     password = something
+
+# View in browser
+     in xampp control panel hit start for apache and MySQL
+        http://localhost/DatabaseProj/index.php
   
   
 
